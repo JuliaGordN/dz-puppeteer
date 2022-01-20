@@ -1,5 +1,5 @@
 # DZ puppeteer
- <img src="https://c.tenor.com/IOMLFKCa9ucAAAAC/nope-monkey.gif " width="833" height="466" />
+ <img src="https://c.tenor.com/IOMLFKCa9ucAAAAC/nope-monkey.gif " width="800" height="450" />
 
 
 1. Create a script that should:
